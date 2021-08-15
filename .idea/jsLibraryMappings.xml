@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{accessibility, all, export-data, exporting, font-awesome, fullcalendar, fullcalendar-scheduler, highcharts, jquery-1.11.3, jquery-ui, loader, moment.js}" />
+  </component>
+</project>

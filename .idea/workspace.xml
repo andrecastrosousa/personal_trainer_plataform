@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b98d8878-374d-4213-83de-d8bd49a6ccaf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/breeze" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-dompdf" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/acaronlex/laravel-calendar" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1nqdnM7RY2KfVx6f5VeFFdGTFSg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../es_jardim" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AndreSousa\Desktop\DNPT" />
+      <recent name="C:\Users\AndreSousa\Desktop\DNPT\public\imagens" />
+      <recent name="C:\Users\AndreSousa\Desktop\DNPT\storage\app\public" />
+      <recent name="C:\Users\AndreSousa\Desktop\DNPT\resources\views\admin\calendario" />
+      <recent name="C:\Users\AndreSousa\Desktop\DNPT\resources\views\admin\cliente" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AndreSousa\Desktop\DNPT\resources\views\admin\feedback" />
+      <recent name="C:\Users\AndreSousa\Desktop\DNPT\resources\views\admin\exercicios" />
+      <recent name="C:\Users\AndreSousa\Desktop\DNPT\public\imagens" />
+      <recent name="C:\Users\AndreSousa\Desktop\DNPT\resources\views\cliente" />
+      <recent name="C:\Users\AndreSousa\Desktop\DNPT\public\fullCalendar" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="artisan breeze:install" />
+      <command value="npm install &amp;&amp; npm run dev" />
+      <command value="npm install" />
+      <command value="npm run dev" />
+      <command value="npm install -g npm" />
+      <command value="artisan make:migration TipoServico -m" />
+      <command value="artisan make:model TipoServico -m" />
+      <command value="artisan make:factory TipoServicoFactory" />
+      <command value="artisan migrate --seed" />
+      <command value="artisan make:migration servico_user" />
+      <command value="artisan make:controller ClienteController -r" />
+      <command value="artisan make:controller ExercicioController -r" />
+      <command value="artisan make:model Exercicio -m" />
+      <command value="artisan make:model TipoExercicio -crm" />
+      <command value="artisan make:migration create_tipo_exercicio_exercicio_table" />
+      <command value="artisan storage:link" />
+      <command value="artisan make:migration create_exercicio_tipo_exercicio_table" />
+      <command value="artisan make:model PlanoTreino -crm" />
+      <command value="artisan make:model Dias -crm" />
+      <command value="artisan make:model DiaExercicio -crm" />
+      <command value="artisan make:model Dia -crm" />
+      <command value="composer require barryvdh/laravel-dompdf" />
+      <command value="require barryvdh/laravel-dompdf" />
+      <command value="php artisan vendor:publish" />
+      <command value="artisan make:model Avaliacao -crm" />
+      <command value="artisan make:model AvaliacaoInicial -crm" />
+      <command value="artisan make:model Condicao -crm" />
+      <command value="artisan make:model Objetivo -m" />
+      <command value="artisan make:model AnamnseClinica -m" />
+      <command value="artisan make:model FotosProgresso -m" />
+      <command value="artisan make:controller AvaliacaoInicialAdmin -r" />
+      <command value="artisan make:controller CarregarFotos -r" />
+      <command value="artisan make:controller ProgressoCliente -r" />
+      <command value="artisan make:model Event -m" />
+      <command value="artisan make:controller FullCalendar -r" />
+      <command value="artisan make:controller Eventos -r" />
+      <command value="artisan make:model Feedback -crm" />
+      <command value="artisan make:model Opiniao -m" />
+      <command value="artisan make:controller CalendarioController " />
+      <command value="artisan make:controller PlanoTreinoClienteController " />
+      <command value="artisan make:controller AvaliacaoFisicaController " />
+      <command value="artisan route:list" />
+      <command value="artisan make:controller ContaClienteController " />
+      <command value="artisan make:model Tarefa -crm" />
+      <command value="artisan tinker" />
+      <command value="artisan make:controller FeedbackAdminController -r" />
+      <command value="artisan route:cache" />
+      <command value="artisan migrate:reset" />
+      <command value="artisan migrate:fresh" />
+      <command value="php artisan migrate:install — env=local " />
+      <command value="php artisan migrate:install" />
+      <command value="artisan migrate" />
+      <command value="artisan key:generate" />
+      <command value="php artisan config:cache " />
+      <command value="php artisan key:generate" />
+      <command value="artisan config:clear" />
+      <command value="artisan config:cache" />
+      <command value="php artisan route:clear " />
+      <command value="php artisan cache:clear " />
+      <command value="php artisan config:clear " />
+      <command value="php artisan view:clear " />
+      <command value="npm run dev " />
+      <command value="php artisan key:generate " />
+      <command value="artisan serve" />
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b98d8878-374d-4213-83de-d8bd49a6ccaf" name="Default Changelist" comment="" />
+      <created>1612121721678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612121721678</updated>
+      <workItem from="1612121724302" duration="9910000" />
+      <workItem from="1612529009326" duration="18642000" />
+      <workItem from="1612610451095" duration="16761000" />
+      <workItem from="1612967642073" duration="15723000" />
+      <workItem from="1613229520268" duration="21280000" />
+      <workItem from="1613259819506" duration="2468000" />
+      <workItem from="1613304181689" duration="680000" />
+      <workItem from="1613392378651" duration="21804000" />
+      <workItem from="1613475298392" duration="17249000" />
+      <workItem from="1613562899304" duration="13377000" />
+      <workItem from="1613655151155" duration="8184000" />
+      <workItem from="1613742007700" duration="16283000" />
+      <workItem from="1613824149224" duration="7605000" />
+      <workItem from="1613992797443" duration="4737000" />
+      <workItem from="1614092634622" duration="53545000" />
+      <workItem from="1614629950958" duration="25058000" />
+      <workItem from="1614784276676" duration="1506000" />
+      <workItem from="1617036722561" duration="266000" />
+      <workItem from="1617037035113" duration="628000" />
+      <workItem from="1618168647063" duration="12029000" />
+      <workItem from="1618262769529" duration="2397000" />
+      <workItem from="1618320611168" duration="16273000" />
+      <workItem from="1618351592693" duration="3278000" />
+      <workItem from="1618383482848" duration="620000" />
+      <workItem from="1619017705797" duration="406000" />
+      <workItem from="1619560361550" duration="1189000" />
+      <workItem from="1619890142983" duration="5620000" />
+      <workItem from="1619909232036" duration="1394000" />
+      <workItem from="1621275001592" duration="291000" />
+      <workItem from="1622286282799" duration="6478000" />
+      <workItem from="1622357428813" duration="8099000" />
+      <workItem from="1624292354278" duration="781000" />
+      <workItem from="1626172476675" duration="6307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/public/js/main.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
