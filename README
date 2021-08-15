@@ -1,0 +1,44 @@
+This website is a platform to management of clients for personal trainer it was developed in Laravel.
+
+########################################################################################################
+                                          Technologies
+########################################################################################################
+Front-end:
+  - Blade (template engine)
+  - HTML
+  - CSS
+  - Bootstrap
+
+Back-end:
+  - Sqlite
+  - PHP
+  
+########################################################################################################
+                                          Patterns
+########################################################################################################
+Software Architeture:
+  - Model-View-Controller pattern (MVC)
+  
+Design Patterns (OOP):
+  - Facade
+  - Factory Method
+
+
+########################################################################################################
+                                          Functionalities
+########################################################################################################
+
+What can you create with this plataform:
+  - Customers
+  - Exercises
+  - Personalized Training
+  - Weekly Feedback
+  - Inicial Formulary
+  - Customer Initial Form
+
+What can you manage with this plataform:
+  - Exercises
+  - Personalized Training
+  - Customers
+  - Customer progress
+  - Training schedule
